@@ -1,0 +1,1 @@
+i would like to create folder wiki and document vision.md. for content of this document research best practices of creating a vision for a software product. our domain in commercial bank in canada and this solution should provide customers with payment receivables platfrom. vision will be developed iteratively throught series of feedback loops.
